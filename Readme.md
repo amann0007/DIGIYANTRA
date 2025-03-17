@@ -18,7 +18,7 @@ This project implements a dynamic multi-step form using HTML, CSS, and JavaScrip
 ## **Installation**
 1. Clone the repository:
    ```sh
-   git clone 
+   git clone https://github.com/amann0007/DIGIYANTRA
    ```
 2. Open `index.html` in a browser.
 ```
